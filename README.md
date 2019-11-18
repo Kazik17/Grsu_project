@@ -1,2 +1,2 @@
 # Project grsu
-#kazimirchik daniel, two, POIT.
+kazimirchik daniel, two, POIT.
