@@ -1,1 +1,2 @@
-# Казимирчик Даниэль, 2 курс, ПОИТ.
+# Project grsu
+#kazimirchik daniel, two, POIT.
